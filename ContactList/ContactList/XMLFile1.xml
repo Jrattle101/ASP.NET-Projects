@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+  <Id name="Jason" cid="2">
+    <ContactInfo
+  First="Jason"
+  Last="Adams"
+  Email="Jadam@mail"
+  Home="545-111-1112"
+  Cell="222-212-1132"
+  Office="111-111-1110"
+  Address="123 Street a city, ST 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Bob" cid="3">
+    <ContactInfo
+    First="Bob"
+    Last="Builder"
+    Email="b@mail"
+    Home="111-111-1111"
+    Cell="111-111-1111"
+    Office="111-111-1111"
+    Address="123 Street a city, ST 12345"
+    Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Mary" cid="4">
+    <ContactInfo
+  First="Mary"
+  Last="Mag"
+  Email="m@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Bill" cid="5">
+    <ContactInfo
+  First="Bill"
+  Last="Money"
+  Email="b@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Stacy" cid="6">
+    <ContactInfo
+  First="Stacy"
+  Last="Goldmon"
+  Email="s@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Mike" cid="7">
+    <ContactInfo
+  First="Mike"
+  Last="Zeller"
+  Email="m@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Marve" cid="8">
+    <ContactInfo
+  First="Marve"
+  Last="Gold"
+  Email="m@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Tony" cid="9">
+    <ContactInfo
+  First="Toney"
+  Last="Otto"
+  Email="t@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Becky" cid="10">
+    <ContactInfo
+  First="Becky"
+  Last="Erom"
+  Email="b@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Fred" cid="11">
+    <ContactInfo
+  First="Fred"
+  Last="Net"
+  Email="f@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Roger" cid="12">
+    <ContactInfo
+  First="Roger"
+  Last="Eman"
+  Email="r@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Linda" cid="13">
+    <ContactInfo
+  First="Linda"
+  Last="Tsal"
+  Email="l@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Amber" cid="14">
+    <ContactInfo
+  First="Amber"
+  Last="Zitzer"
+  Email="z@mail.com"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Quency" cid="15">
+    <ContactInfo
+  First="Quency"
+  Last="Adams"
+  Email="q@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="John" cid="16">
+    <ContactInfo
+  First="John"
+  Last="Hoyt"
+  Email="j@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Robert" cid="17">
+    <ContactInfo
+  First="Robert"
+  Last="Holt"
+  Email="r@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Lucy" cid="18">
+    <ContactInfo
+  First="Lucy"
+  Last="Frenz"
+  Email="l@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Vick" cid="19">
+    <ContactInfo
+  First="Vick"
+  Last="Last"
+  Email=""
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Bobby" cid="20">
+    <ContactInfo
+  First="Bobby"
+  Last="Last"
+  Email="b@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Tom" cid="21">
+    <ContactInfo
+  First="tom"
+  Last="Last"
+  Email="t@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Dick" cid="22">
+    <ContactInfo
+  First="Dick"
+  Last="Last"
+  Email="d@mail.com"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Harry" cid="23">
+    <ContactInfo
+  First="Harry"
+  Last="Bexk"
+  Email="h@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Chris" cid="24">
+    <ContactInfo
+  First="Chris"
+  Last="Wright"
+  Email="c@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+  <Id name="Allen" cid="25">
+    <ContactInfo
+  First="Allen"
+  Last="Gulden"
+  Email="a@mail"
+  Home="111-111-1121"
+  Cell="111-111-1111"
+  Office="111-111-1111"
+  Address="123 st city, st 12345"
+  Notes="Notes"
+  ></ContactInfo>
+  </Id>
+
+</root>
